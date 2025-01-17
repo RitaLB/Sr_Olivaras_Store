@@ -1,12 +1,6 @@
 # Sr_Olivaras_Store
 Hyperledger Fabric blockchain Smart Contract : Experimental smart contract for a Hyperledger Fabric blockchain network in a fictional item manufacturing network, managing the origin, registration,  usage of raw materials in stock, inventory management of items, and tracking data of sold items
 
-
-**Brief Introduction to the Challenge Proposal:**
-The challenge involves creating a traceability system for the magic wands sold at Mr. Ollivander's shop. This system should enable wizards in the wand production chain to list the materials they have available. Consequently, Mr. Ollivander, using the system, can view the materials available for wand production as well as add newly created wands to the database. Furthermore, by securely and traceably storing data through blockchain technology, the system will provide customers with information regarding the wand's origin and the materials it is made from.
-
-# Main Challenge Report
-
 ### Brief Introduction to the Challenge Proposal
 The challenge involves creating a traceability system for the magic wands sold at Mr. Ollivander's shop. This system should enable wizards in the wand production chain to list the materials they have available. Consequently, Mr. Ollivander, using the system, can view the materials available for wand production as well as add newly created wands to the database. Furthermore, by securely and traceably storing data through blockchain technology, the system will provide customers with information regarding the wand's origin and the materials it is made from.
 
